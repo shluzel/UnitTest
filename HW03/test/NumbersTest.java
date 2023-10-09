@@ -1,8 +1,8 @@
 package HW03.test;
 
-import org.junit.jupiter.api.Test;
-
 import HW03.Numbers;
+
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
